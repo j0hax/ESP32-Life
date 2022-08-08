@@ -12,5 +12,5 @@ Colored Game of Life for the LILYGO® TTGO T-Display
 
 A colored variant, implementing 4 colors:
 
-1. When newborn cells are created, they take on the majority colour of their neighbours.
-2. If the three neighbours are all different colours, the newborn cell takes on the remaining colour.
+1. When newborn cells are created, they take on the majority color of their neighbours.
+2. If the three neighbours are all different colors, the newborn cell takes on the remaining color.
