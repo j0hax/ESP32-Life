@@ -17,4 +17,9 @@ A colored variant, implementing 4 colors:
 
 ### For Platfromio
 
-Use the PIO.ini in a new project and the main.ino build and flash.. Quick and easy
+1. Use the PIO.ini in a new project and the main.ino build and flash.. Quick and easy
+
+### For Arduino
+
+1. Delete <Arduino.h> and use the .zip libs for the display
+2. Switch to Platformio
