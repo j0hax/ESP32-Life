@@ -12,5 +12,14 @@ Colored Game of Life for the LILYGO® TTGO T-Display
 
 A colored variant, implementing 4 colors:
 
-1. When newborn cells are created, they take on the majority colour of their neighbours.
-2. If the three neighbours are all different colours, the newborn cell takes on the remaining colour.
+1. When newborn cells are created, they take on the majority color of their neighbours.
+2. If the three neighbours are all different colors, the newborn cell takes on the remaining color.
+
+### For Platfromio
+
+1. Use the PIO.ini in a new project and the main.ino build and flash.. Quick and easy
+
+### For Arduino
+
+1. Delete <Arduino.h> and use the .zip libs for the display
+2. Switch to Platformio
